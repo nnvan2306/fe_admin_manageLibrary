@@ -1,0 +1,3 @@
+[submodule "manageLibrary"]
+	path = manageLibrary
+	url = https://github.com/system-dev-myapp/manageLibrary.git
