@@ -1,5 +1,5 @@
 import { Pagination, Select, Spin, Table } from "antd";
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { columnsTableOrder } from "../../../../../data/dataTableOrder/dataTableOrder";
 import ModalInfoUser from "./ModalInfoUser/ModalInfoUser";
 import usePagination from "../../../../../hook/usePagination";

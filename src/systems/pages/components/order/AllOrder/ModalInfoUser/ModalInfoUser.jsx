@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import { Button, Modal } from "antd";
-import React, { useState } from "react";
+import { useState } from "react";
 
 export default function ModalInfoUser({ dataUser }) {
     const [isModalOpen, setIsModalOpen] = useState(false);
